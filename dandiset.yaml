@@ -32,7 +32,7 @@ assetsSummary:
   - ElectrodeGroup
   - ElectricalSeries
 citation: Fang, Hui (2026) Electrophysiology recording in free moving rat with AMPH/Saline
-  Injection (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/002023/draft
+  Injection (Version 0.261007.1925) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.002023/0.261007.1925
 contributor:
 - affiliation: []
   email: hui.fang@dartmouth.edu
@@ -48,24 +48,38 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2026-10-07T14:19:53.683691+00:00'
+datePublished: '2026-10-07T19:25:35.827637+00:00'
 description: We are sharing electrophysiology datasets from 4 rats' brains, with the
   injection of Amphetamine (AMPH) or Saline (control group). We found evoked responses
   in both local field potentials and single-unit spike activity after drug administration.
   This dataset is used for our publication (Stabilized Carbon Coating for Scalable
   and Interoperable Neurotransmitter Sensing) in Nature Communications. Data were
   recorded with Intan RHD recorder.
+doi: 10.48324/dandi.002023/0.261007.1925
 ethicsApproval: []
-id: DANDI:002023/draft
+id: DANDI:002023/0.261007.1925
 identifier: DANDI:002023
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/002023/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/002023/0.261007.1925/assets.yaml
 name: Electrophysiology recording in free moving rat with AMPH/Saline Injection
+publishedBy:
+  endDate: '2026-10-07T19:25:35.827637+00:00'
+  id: urn:uuid:74f8b8e7-be4a-426e-b570-49314289c00a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-07T19:25:35.827637+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b30542c3-0341-43b9-a6f2-e7b0f5f705cc
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/002023/draft
-version: draft
+url: https://dandiarchive.org/dandiset/002023/0.261007.1925
+version: 0.261007.1925
 wasGeneratedBy: []
